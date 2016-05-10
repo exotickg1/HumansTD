@@ -30,7 +30,7 @@
 		"no_enough_wood"						"Не хватает дерева"
 		"playernum"							"Текущее количество игроков: "
 		"addextragold"							" Получение дополнительного золота: "
-		"nextwave"							"Следующая волна: %quest_current_value%second"
+		"nextwave"							"Следующая волна: %quest_current_value% сек."
 		"wavenum"							"Волна %quest_current_value%"
 		"wood"								"Дерево"
 		"still"								" всё еще "
