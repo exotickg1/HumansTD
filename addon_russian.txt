@@ -695,5 +695,234 @@
 		"DOTA_Tooltip_ability_item_dagger"  			"Blink Dagger"
 		"DOTA_Tooltip_ability_item_dagger_Description"			"Позволяет телепортироваться на короткую дистанцию."
 		//item
+		
+		//item
+
+		"DOTA_Tooltip_ability_lieren_turn"					"Повернуть"
+		"DOTA_Tooltip_ability_lieren_turn_Description"				"Поворачивает башню на 90 градусов."
+
+		"DOTA_Tooltip_ability_lieren_eat"					"Поедание"
+		"DOTA_Tooltip_ability_lieren_eat_Description"				"Съешьте свою башню, чтобы получить больше подвигов."
+		
+		"DOTA_Tooltip_ability_item_youxia12"  			"Огонь (для Рейнджера)"
+		"DOTA_Tooltip_ability_item_youxia12_Description"  			"<font color='#E6DB74'>500 золота</font><Br><font color='#901A1D'>1 еда</font><Br>Башня для Рейнджера. При постройке всех трех башен Рейнджера дает ауру скорости к атаке."
+		"DOTA_Tooltip_ability_item_youxia13"  			"Лёд (для Рейнджера)"
+		"DOTA_Tooltip_ability_item_youxia13_Description"  			"<font color='#E6DB74'>500 золота</font><Br><font color='#901A1D'>1 еда</font><Br>Башня для Рейнджера. При постройке всех трех башен Рейнджера дает ауру скорости к атаке."
+		"DOTA_Tooltip_ability_item_youxia14"  			"Яд (для Рейнджера)"
+		"DOTA_Tooltip_ability_item_youxia14_Description"  			"<font color='#E6DB74'>500 золота</font><Br><font color='#901A1D'>1 еда</font><Br>Башня для Рейнджера. При постройке всех трех башен Рейнджера дает ауру скорости к атаке."
+
+		"DOTA_Tooltip_ability_item_yemanren12"  			"Панда Кулак (для Варвара)"
+		"DOTA_Tooltip_ability_item_yemanren12_Description"  			"<font color='#E6DB74'>1000 золота</font><Br><font color='#901A1D'>1 еда</font><Br>Башня Варвара. При постройке всех трех башен Варвара даёт большой шанс оглушить противника и призватть собак."
+		"DOTA_Tooltip_ability_item_yemanren14"  			"Панда Нож (для Варвара)"
+		"DOTA_Tooltip_ability_item_yemanren14_Description"  			"<font color='#E6DB74'>1000 золота</font><Br><font color='#901A1D'>1 еда</font><Br>Башня Варвара. При постройке всех трех башен Варвара даёт большой шанс оглушить противника и призватть собак."
+		"DOTA_Tooltip_ability_item_yemanren13"  			"Панда Палка (для Варвара)"
+		"DOTA_Tooltip_ability_item_yemanren13_Description"  			"<font color='#E6DB74'>1000 золота</font><Br><font color='#901A1D'>1 еда</font><Br>Башня Варвара. При постройке всех трех башен Варвара даёт большой шанс оглушить противника и призватть собак."
+
+		"DOTA_Tooltip_ability_item_lieren12"  			"Магический энт (для Охотника)"
+		"DOTA_Tooltip_ability_item_lieren12_Description"  			"<font color='#E6DB74'>600 золота</font><Br><font color='#901A1D'>1 еда</font><Br>Башня Охотника. При постройке всех трех башен снижает броню противника."
+		"DOTA_Tooltip_ability_item_lieren13"  			"Энт-помощник (для Охотника)"
+		"DOTA_Tooltip_ability_item_lieren13_Description"  			"<font color='#E6DB74'>600 золота</font><Br><font color='#901A1D'>1 еда</font><Br>Башня Охотника. При постройке всех трех башен снижает броню противника."
+		"DOTA_Tooltip_ability_item_lieren14"  			"Атакующий энт (для Охотника)"
+		"DOTA_Tooltip_ability_item_lieren14_Description"  			"<font color='#E6DB74'>600 золота</font><Br><font color='#901A1D'>1 еда</font><Br>Башня Охотника. При постройке всех трех башен снижает броню противника."
+
+		"DOTA_Tooltip_ability_item_xiaotou12"  			"Мурлок-убийца (для Вора)"
+		"DOTA_Tooltip_ability_item_xiaotou12_Description"  			"<font color='#E6DB74'>500 золота</font><Br><font color='#901A1D'>1 еда</font><Br>Башня Вора. При постройке всех трех башен увеличивает эффект от способности грабеж на 50%."
+		"DOTA_Tooltip_ability_item_xiaotou13"  			"Мурлок-вор (для Вора)"
+		"DOTA_Tooltip_ability_item_xiaotou13_Description"  			"<font color='#E6DB74'>500 золота</font><Br><font color='#901A1D'>1 еда</font><Br>Башня Вора. При постройке всех трех башен увеличивает эффект от способности грабеж на 50%."
+		"DOTA_Tooltip_ability_item_xiaotou14"  			"Мурлок-грабитель (для Вора)"
+		"DOTA_Tooltip_ability_item_xiaotou14_Description"  			"<font color='#E6DB74'>500 золота</font><Br><font color='#901A1D'>1 еда</font><Br>Башня Вора. При постройке всех трех башен увеличивает эффект от способности грабеж на 50%."
+
+		"DOTA_Tooltip_ability_item_mojianshi12"  			"Иллюзорный дракон (для Светлячка)"
+		"DOTA_Tooltip_ability_item_mojianshi12_Description"  			"<font color='#E6DB74'>500 золота</font><Br><font color='#901A1D'>2 еды</font><Br>Башня Светлячка. При постройке всех трех башен замедляет противника."
+		"DOTA_Tooltip_ability_item_mojianshi13"  			"Свирепый дракон (для Светлячка)"
+		"DOTA_Tooltip_ability_item_mojianshi13_Description"  			"<font color='#E6DB74'>500 золота</font><Br><font color='#901A1D'>2 еды</font><Br>Башня Светлячка. При постройке всех трех башен замедляет противника."
+		"DOTA_Tooltip_ability_item_mojianshi14"  			"Дракон-маг (для Светлячка)"
+		"DOTA_Tooltip_ability_item_mojianshi14_Description"  			"<font color='#E6DB74'>500 золота</font><Br><font color='#901A1D'>2 еды</font><Br>Башня Светлячка. При постройке всех трех башен замедляет противника."
+
+		"DOTA_Tooltip_ability_item_shushi12"  			"Колдун ветра"
+		"DOTA_Tooltip_ability_item_shushi12_Description"  			"<font color='#E6DB74'>600 золота</font><Br><font color='#901A1D'>2 еды</font><Br>Башня Колдуна. При постройке всех трех башен добавляет регенерацию маны."
+		"DOTA_Tooltip_ability_item_shushi13"  			"Колдун туч"
+		"DOTA_Tooltip_ability_item_shushi13_Description"  			"<font color='#E6DB74'>600 золота</font><Br><font color='#901A1D'>2 еды</font><Br>Башня Колдуна. При постройке всех трех башен добавляет регенерацию маны."
+		"DOTA_Tooltip_ability_item_shushi14"  			"Колдун грозы для ()"
+		"DOTA_Tooltip_ability_item_shushi14_Description"  			"<font color='#E6DB74'>600 золота</font><Br><font color='#901A1D'>2 еды</font><Br>Башня Колдуна. При постройке всех трех башен добавляет регенерацию маны."
+
+		"youxia12"							"fire arrow tower"
+		"youxia12_2"							"fire arrow tower"
+		"youxia12_3"							"fire arrow tower"
+		"youxia13"							"ice arrow tower"
+		"youxia13_2"							"ice arrow tower"
+		"youxia13_3"							"ice arrow tower"
+		"youxia14"							"poison arrow tower"
+		"youxia14_2"							"poison arrow tower"
+		"youxia14_3"							"poison arrow tower"
+
+		"yemanren12"							"big panda(fist)"
+		"yemanren12_2"							"big panda(fist)"
+		"yemanren12_3"							"big panda(fist)"
+		"yemanren14"							"big panda(knife)"
+		"yemanren14_2"							"big panda(knife)"
+		"yemanren14_3"							"big panda(knife)"
+		"yemanren13"							"big panda(stick)"
+		"yemanren13_2"							"big panda(stick)"
+		"yemanren13_3"							"big panda(stick)"
+
+		"lieren12"							"blade car(magic)"
+		"lieren12_2"							"blade car(magic)"
+		"lieren12_3"							"blade car(magic)"
+		"lieren13"							"blade car(assist)"
+		"lieren13_2"							"blade car(assist)"
+		"lieren13_3"							"blade car(assist)"
+		"lieren14"							"blade car(attack)"
+		"lieren14_2"							"blade car(attack)"
+		"lieren14_3"							"blade car(attack)"
+
+		"mojianshi12"							"dragon bring(illusory)"
+		"mojianshi12_2"							"dragon bring(illusory)"
+		"mojianshi12_3"							"dragon bring(illusory)"
+		"mojianshi13"							"dragon bring(fierce)"
+		"mojianshi13_2"							"dragon bring(fierce)"
+		"mojianshi13_3"							"dragon bring(fierce)"
+		"mojianshi14"							"dragon bring(magic)"
+		"mojianshi14_2"							"dragon bring(magic)"
+		"mojianshi14_3"							"dragon bring(magic)"
+
+		"shushi12"							"warlock(wind)"
+		"shushi12_2"							"warlock(wind)"
+		"shushi12_3"							"warlock(wind)"
+		"shushi13"							"warlock(cloud)"
+		"shushi13_2"							"warlock(cloud)"
+		"shushi13_3"							"warlock(cloud)"
+		"shushi14"							"warlock(thunder)"
+		"shushi14_2"							"warlock(thunder)"
+		"shushi14_3"							"warlock(thunder)"
+
+		"xiaotou12"							"Little thief(kill)"
+		"xiaotou12_2"							"Little thief(kill)"
+		"xiaotou12_3"							"Little thief(kill)"
+		"xiaotou13"							"Little thief(steal)"
+		"xiaotou13_2"							"Little thief(steal)"
+		"xiaotou13_3"							"Little thief(steal)"
+		"xiaotou14"							"Little thief(rob)"
+		"xiaotou14_2"							"Little thief(rob)"
+		"xiaotou14_3"							"Little thief(rob)"
+
+		//item
+
+		"DOTA_Tooltip_ability_taozhuang_dujian"				"poison arrow"
+		"DOTA_Tooltip_ability_taozhuang_dujian_Description"		"attack can cause poison damage<font color='#00FF5080'>when your role are ranger ,collect fire ,ice and poison the three will active the suit effect</font>"
+		"DOTA_Tooltip_ability_taozhuang_dujian_duration"				"duration"
+
+		"DOTA_Tooltip_ability_taozhuang_huojian"				"fire arrow"
+		"DOTA_Tooltip_ability_taozhuang_huojian_Description"		"attack can cause fire damage<font color='#00FF5080'>when your role are ranger ,collect fire ,ice and poison the three will active the suit effect</font>"
+
+		"DOTA_Tooltip_ability_taozhuang_bingjian"				"ice arrow"
+		"DOTA_Tooltip_ability_taozhuang_bingjian_Description"		"Increase attack,slow down the enemy<font color='#00FF5080'>when your role are ranger ,collect fire ,ice and poison the three will active the suit effect</font>"
+		"DOTA_Tooltip_ability_taozhuang_bingjian_duration"				"duration"
+		"DOTA_Tooltip_ability_taozhuang_bingjian_slow"				"%slow"
+
+		"DOTA_Tooltip_ability_taozhuang_youxia"				"agile body"
+		"DOTA_Tooltip_ability_taozhuang_youxia_Description"		"Increase units' attack who are friendly and are in the range<font color='#00FF5080'>when your role are ranger ,collect fire ,ice and poison the three will active the suit effect</font>"
+		"DOTA_Tooltip_ability_taozhuang_youxia_radius"				"radius"
+		"DOTA_Tooltip_ability_taozhuang_youxia_damage_bonus"				"+attack speed"
+
+		"DOTA_Tooltip_ability_taozhuang_quantao"				"boxglove"
+		"DOTA_Tooltip_ability_taozhuang_quantao_Description"				"wear a boxglove,Increase damage and can cause cleave attack"
+		"DOTA_Tooltip_ability_taozhuang_quantao_per"				"%cleave"
+		"DOTA_Tooltip_ability_taozhuang_quantao_radius"				"radius"
+
+		"DOTA_Tooltip_ability_taozhuang_pojia"				"armor hit"
+		"DOTA_Tooltip_ability_taozhuang_pojia_Description"				"stick your enemy,Increase attack and reduce the enemy's armor"
+		"DOTA_Tooltip_ability_taozhuang_pojia_armor"				"armor reduce"
+		"DOTA_Tooltip_ability_taozhuang_pojia_duration"				"duration"
+
+		"DOTA_Tooltip_ability_taozhuang_shuangdao"				"doubleKnife"
+		"DOTA_Tooltip_ability_taozhuang_shuangdao_Description"				"wear 2 knife,let big panda has a high chance to cause super critical strike"
+		"DOTA_Tooltip_ability_taozhuang_shuangdao_crit_chance"				"%chance"
+		"DOTA_Tooltip_ability_taozhuang_shuangdao_crit_damage"				"%crit"
+
+		"DOTA_Tooltip_ability_taozhuang_yemanren"				"Dozen dog"
+		"DOTA_Tooltip_ability_taozhuang_yemanren_Description"				"attack has 10% chance to break enemy's leg,cause 10000 damage,disable enemy to walk .(just continuous 3 second for boss)"
+
+		"DOTA_Tooltip_ability_taozhuang_longjuanfeng"				"tornado"
+		"DOTA_Tooltip_ability_taozhuang_longjuanfeng_Description"				"auto cast tornado"
+		"DOTA_Tooltip_ability_taozhuang_longjuanfeng_distance"				"distance"
+
+		"DOTA_Tooltip_ability_taozhuang_wuyun"				"black cloud"
+		"DOTA_Tooltip_ability_taozhuang_wuyun_Description"				"auto cast black cloud.cause damage per second to the units Around the target"
+		"DOTA_Tooltip_ability_taozhuang_wuyun_radius"				"radius"
+
+		"DOTA_Tooltip_ability_taozhuang_leidiangongji"				"thunder attack"
+		"DOTA_Tooltip_ability_taozhuang_leidiangongji_Description"				"release thunder attack ,cause damage to the around other unit.increase thunder damage."
+		"DOTA_Tooltip_ability_taozhuang_leidiangongji_radius"				"radius"
+
+		"DOTA_Tooltip_ability_taozhuang_shushi"				"Glorious aura"
+		"DOTA_Tooltip_ability_taozhuang_shushi_Description"				"To speed up the nearby friendly units mana regeneration rate.has no effects to demon swordman~"
+		"DOTA_Tooltip_ability_taozhuang_shushi_radius"				"radius"
+		"DOTA_Tooltip_ability_taozhuang_shushi_regen"				"%mana regen"
+
+		"DOTA_Tooltip_ability_taozhuang_doushizhiguang"				"light of a fighter"
+		"DOTA_Tooltip_ability_taozhuang_doushizhiguang_Description"				"to increase the attack damage of the nearby friendly unit"
+		"DOTA_Tooltip_ability_taozhuang_doushizhiguang_radius"				"radius"
+		"DOTA_Tooltip_ability_taozhuang_doushizhiguang_duration"				"duration"
+		"DOTA_Tooltip_ability_taozhuang_doushizhiguang_damage"				"%attack increase"
+
+		"DOTA_Tooltip_ability_taozhuang_chanrao"				"winding"
+		"DOTA_Tooltip_ability_taozhuang_chanrao_Description"				"auto cast winding to wind enemy when attack<Br>winding the unit,damage to it per second"
+		"DOTA_Tooltip_ability_taozhuang_chanrao_duration"				"duration"
+
+		"DOTA_Tooltip_ability_taozhuang_buzhuo"				"catch"
+		"DOTA_Tooltip_ability_taozhuang_buzhuo_Description"				"has chance to catch the enemy when attack,cause extra damage"
+		"DOTA_Tooltip_ability_taozhuang_buzhuo_duration"				"duration"
+		"DOTA_Tooltip_ability_taozhuang_buzhuo_chance"				"%chance"
+
+		"DOTA_Tooltip_ability_taozhuang_lieren"				"armor hit aura"
+		"DOTA_Tooltip_ability_taozhuang_lieren_Description"				"reduce nearby enemies' armor by 30 in a range of 1000"
+
+		"DOTA_Tooltip_ability_taozhuang_zhaohuanyanmo"				"call fire demon"
+		"DOTA_Tooltip_ability_taozhuang_zhaohuanyanmo_Description"				"every 10 attacks will call the fire demon to attack enemy"
+		"DOTA_Tooltip_ability_taozhuang_zhaohuanyanmo_duration"				"duration"
+
+		"DOTA_Tooltip_ability_taozhuang_zhenwu"				"turely fierce"
+		"DOTA_Tooltip_ability_taozhuang_zhenwu_Description"				"every 10 attacks will cast truely fierce.<Br>damage the target and stun it"
+		"DOTA_Tooltip_ability_taozhuang_zhenwu_duration"				"duration"
+
+		"DOTA_Tooltip_ability_taozhuang_longyin"				"dragon howl"
+		"DOTA_Tooltip_ability_taozhuang_longyin_Description"				"every 10 attacks will cast dragon howl.<Br>cause damage to units around the target,slow down their movespeed"
+		"DOTA_Tooltip_ability_taozhuang_longyin_duration"				"duration"
+		"DOTA_Tooltip_ability_taozhuang_longyin_slow"				"%slow"
+
+		"DOTA_Tooltip_ability_taozhuang_mojianshi"				"evil aura"
+		"DOTA_Tooltip_ability_taozhuang_mojianshi_Description"				"decrease the movespeed of the nearby enemies"
+		"DOTA_Tooltip_ability_taozhuang_mojianshi_radius"				"radius"
+		"DOTA_Tooltip_ability_taozhuang_mojianshi_slow"				"%slow"
+
+		"DOTA_Tooltip_ability_taozhuang_shalu"				"super kill"
+		"DOTA_Tooltip_ability_taozhuang_shalu_Description"				"Be crazy ,have a chance to damage the target for fatal injury<Br>when this ability is in max level ,the effect becomes forcekill the enemy<Br>the special effect just for thief"
+		"DOTA_Tooltip_ability_taozhuang_shalu_chance"				"%chance"
+		"DOTA_Tooltip_ability_taozhuang_shalu_crit"				"%crit"
+
+		"DOTA_Tooltip_ability_taozhuang_toushu"				"steal"
+		"DOTA_Tooltip_ability_taozhuang_toushu_Description"				"attack has 5% chance to steal(waveNumber+2)/3 gold<Br>this ability can stack with plunder<Br>just for thief"
+		"DOTA_Tooltip_ability_taozhuang_toushu_chance"				"%chance"
+
+		"DOTA_Tooltip_ability_taozhuang_qiangjie"				"rob"
+		"DOTA_Tooltip_ability_taozhuang_qiangjie_Description"				"rob money from target,Make its pain<Br>just for thief"
+		"DOTA_Tooltip_ability_taozhuang_qiangjie_gold"				"%gold"
+
+		"DOTA_Tooltip_ability_taozhuang_xiaotou"				"High-tech plunder(Strengthen)"
+		"DOTA_Tooltip_ability_taozhuang_xiaotou_Description"				"Master the cutting-edge technology,Increase the effect of plunder by50%%.<Br>effect cannot stack<Br>Suit effect"
+
+		"DOTA_Tooltip_ability_xiaotou_gaolidai"			"usury"
+		"DOTA_Tooltip_ability_xiaotou_gaolidai_Description"			"Usury to Athena's minions~<Br>Before each wave,you will get the more 10%% of current money for interest.<Br>just function after wave 40.you can get max for 4000 gold"
+
+		"notyourunit"						"this is not your unit or you cannot eat this unit"
+		"collectedSuit"						" collected the suit: "
+		"youxia"		"ranger"
+		"yemanren"		"barbarian"
+		"mojianshi"		"demon swordman"
+		"xiaotou"			"thief"
+		"shushi"			"warlock"
+		"lieren"			"hunter"
+		"getgaolidai"						"get usury"
 	}
 }
